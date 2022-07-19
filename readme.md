@@ -34,5 +34,16 @@ Arrange the 16 face cards from a standard deck of cards so that each row and eac
 ### More coming soon.
 
 
+## Associated curriculum
+I have a lot of curriculum that uses these puzzles in various ways, but I've never really published that for distribution beyond my visits to the classroom.  Ask nicely and I can share it with you, makre videos about it, and eventually clean it up to share it.
 
+
+## Contributing
+Pull requests welcome!  In forking and submitting a pull request, you are agreeing to the license, the community guidelines, and indicate you are willing to assign the copyright on any pull request to me so that I may enforce this copyright (or change it for future versions) without future hassle.
+
+Follow normal github branch/pull request model.
+
+Not that this repo contains much unit-tested code, but in the event that it ever does (or in the event that there become a reasonable way to unit test .scad files) pull requests will require code coverage.
+
+Contributions are subject to the [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
